@@ -1,0 +1,8 @@
+$ export CHANNEL_SECRET=a09efac84ed140ac5be5e31f01bf28b9
+$ export CHANNEL_ACCESS_TOKEN=OyOtJyBlTj+bZUNJL4/NILwhbHIZGtaTxOgGucYR6aSiV8pOyaoJylSrTp0ojVB6cgsvooMlpR1Lxhe8Tw+UFjeg0Dm4CQKAGe0RUNe3Gfcz6ahFrfR2tV3R+nCJ6KwfMD/+QbIEErAo89kKiyVhcQdB04t89/1O/w1cDnyilFU=
+
+
+$ export PORT=1234
+
+regrex
+\b(\w*order\w*)\b
